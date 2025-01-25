@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamesmoney123
 - 👀 I’m interested 32 BIT AND 64 BIT PROGRAMING
-- 🌱 
+- 🌱   DOING A LOT OF WIN32API USING DEVC++
 - 💞️ I’m looking to collaborate on 
 POWERBASIC - FREEBASIC - QB64
 - 📫 How to reach me ...  SOH72542@GMAIL.COM
